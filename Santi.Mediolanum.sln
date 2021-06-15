@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Santi.WebApi", "Santi.WebApi\Santi.WebApi.csproj", "{00679B6F-EDFB-4830-BF1C-E3F0A7B34784}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Santi.IdServer4", "Santi.IdServer4\Santi.IdServer4.csproj", "{6A5260DB-C920-4E29-8A6D-83DBF41C38B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00679B6F-EDFB-4830-BF1C-E3F0A7B34784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00679B6F-EDFB-4830-BF1C-E3F0A7B34784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00679B6F-EDFB-4830-BF1C-E3F0A7B34784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00679B6F-EDFB-4830-BF1C-E3F0A7B34784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A5260DB-C920-4E29-8A6D-83DBF41C38B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5260DB-C920-4E29-8A6D-83DBF41C38B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5260DB-C920-4E29-8A6D-83DBF41C38B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5260DB-C920-4E29-8A6D-83DBF41C38B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27756716-BDCB-4F86-86B4-D99D1704EB1C}
+	EndGlobalSection
+EndGlobal
